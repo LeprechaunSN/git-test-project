@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.cat-box {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.cat-box__img {
+    width: 200px;
+    height: 200px;
+}
+
+.cat-box__title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 30px;
+}
